@@ -1,4 +1,6 @@
 import React, { useState, useEffect, useMemo } from 'react';
+import catttImage from './assets/cattt.jpg';
+
 import { 
   Home, 
   Search, 
@@ -47,7 +49,7 @@ const INITIAL_RECIPES = [
     reviews: [
       { id: 1, user: 'FitLife99', rating: 5, comment: 'Sarapan sempurna! Mengenyangkan.' }
     ],
-    image: 'https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=400'
+    image: catttImage,
   }
 ];
 
