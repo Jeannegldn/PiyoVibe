@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import catttImage from './assets/cattt.jpg';
+import jusAlpukatImage from './assets/jusAlpukat.png';
 
 import { 
   Home, 
@@ -33,7 +33,7 @@ import {
 const INITIAL_RECIPES = [
   {
     id: '1',
-    title: 'Avocado Toast with Egg',
+    title: 'Avocado Juice',
     author: 'HealthySam',
     calories: 350,
     duration: { hours: 0, minutes: 15 },
