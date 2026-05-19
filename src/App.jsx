@@ -49,7 +49,7 @@ const INITIAL_RECIPES = [
     reviews: [
       { id: 1, user: 'FitLife99', rating: 5, comment: 'Sarapan sempurna! Mengenyangkan.' }
     ],
-    image: catttImage,
+    image: jusAlpukatImage,
   }
 ];
 
